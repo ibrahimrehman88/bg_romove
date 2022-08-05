@@ -1,1 +1,1 @@
-# bg_remove
+# background-remove
